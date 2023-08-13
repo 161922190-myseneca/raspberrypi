@@ -168,8 +168,8 @@ def sendtransactiondata(maintopic,mainproducerid,VIPERPORT,index,preprocesstopic
 #values=valueQuantity.value,component.0.valueQuantity.value,component.1.valueQuantity.value~\
 #identifiers=code.coding.0.display,component.0.code.coding.0.display,component.1.code.coding.0.display~\
 #datetime=effectiveDateTime~\
-#msgid=id~\
-#latlong='
+msgid=id~\
+latlong=lat:long'
 
  # This is type Collections
  
